@@ -1,0 +1,48 @@
+body {
+  font-family: inherit;
+}
+.floran {
+  background-color:crimson;
+  width: 400px;
+ height: 650px;
+  padding: 50px;
+  margin: 500px; auto;
+    
+
+    
+}
+
+.kaas { 
+ margin: 20px ; auto;  
+}
+
+
+
+.siegertt { 
+  
+  background-color:aqua;
+  width: 700px;
+  height: 650px;
+  padding: 50px;
+  margin: 500px; auto;
+
+  
+}
+
+.next
+{
+  border: 2px  solid blue;
+
+  
+  
+}
+
+.next:hover {
+  
+  background-color: aqua;
+  
+  .previous   {   
+  border: 2px  solid blue; 
+  
+  
+  }
